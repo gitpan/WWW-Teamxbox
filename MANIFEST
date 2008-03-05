@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-Teamxbox.t
+lib/WWW/Teamxbox.pm

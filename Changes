@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::Teamxbox.
+
+0.01  Wed Mar  5 02:15:16 2008
+	- original version; created by h2xs 1.23 with options
+		-AfXn WWW::Teamxbox
+
